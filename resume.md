@@ -1,7 +1,7 @@
 # Jahsulynn Ault
 
 
-### Professional Experience
+## Professional Experience
 
 **Communications Coordinator** • *Gateway to College National Network,* Portland, OR  
 October 2013-Present
