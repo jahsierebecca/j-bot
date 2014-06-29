@@ -38,11 +38,11 @@ September 2010-April 2011
 
 ## Education
 **Lewis and Clark College**  
-Portland, Oregon	2006-2010
+Portland, Oregon • 2006-2010  
 *Bachelors of Arts in History* 
 	
-**Independent Publishers Resource Center** 
-Portland, Oregon 	2010-2011
+**Independent Publishers Resource Center**  
+Portland, Oregon • 2010-2011  
 *Certificate in Independent Publishing*
 
 ## Systems and Software Proficiency
