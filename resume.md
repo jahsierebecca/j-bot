@@ -1,7 +1,7 @@
 # Jahsulynn Ault
 
 
-## Professional Experience
+### Professional Experience
 
 **Communications Coordinator** • *Gateway to College National Network,* Portland, OR  
 October 2013-Present
@@ -36,7 +36,7 @@ September 2010-April 2011
 - Content Creation: Created and presented exhibit proposals to both full and core teams. Collaborated with exhibit design team to track planning logistics.
 - Design: Researched techniques of exhibit design and the psychology of sustainability to ensure that content and aesthetics of exhibit would be appealing to museum visitors.
 
-## Education
+### Education
 **Lewis and Clark College**  
 Portland, Oregon • 2006-2010  
 *Bachelors of Arts in History* 
@@ -45,7 +45,7 @@ Portland, Oregon • 2006-2010
 Portland, Oregon • 2010-2011  
 *Certificate in Independent Publishing*
 
-## Systems and Software Proficiency
+### Systems and Software Proficiency
 **Operating Systems:** Windows, Mac, Linux  
 **Software:** InDesign, Photoshop, Illustrator, Microsoft Office, Final Cut Pro, iMovie, Pixelmator  
 **Web Publishing Platforms:** Hootsuite, Google Analytics, Google Adwords, Wordpress, Confluence  
