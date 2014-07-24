@@ -1,12 +1,12 @@
-Jahsulynn Ault
-Portland, OR
-July 24, 2014
+Jahsulynn Ault  
+Portland, OR  
+July 24, 2014  
 
-Portland Code School
-1771 NW Pettygrove Street, Ste 140
-Portland, OR 97209
+Portland Code School  
+1771 NW Pettygrove Street, Ste 140  
+Portland, OR 97209  
 
-To whom it may concern,
+To whom it may concern,  
 
 I am very interested in the Front-End Web Development course at Portland Code School. I currently work at an educational nonprofit which serves a wide national audience. I manage all of the organization's communication projects and activities.  My current responsibilities include: website maintenance, managing our organizational wiki, providing training and support for our programs, developing and distributing marketing material to each of our 44 programs, and creating printed and digital communications such as brochures, eNewsletters and videos.  
 
@@ -16,6 +16,6 @@ I really enjoy working with others, but I’m also good at working independently
 
 Portland Code School was recommended to me by my friend and former colleague Niles Voyer-McGiver. Based on his recommendation and my own research I think your program will be a perfect fit for my learning style and career goals.  I have submitted all of the materials required for the application.  Thank you very much for considering my application and please contact me if you have any questions.
 
-Sincerely,
+Sincerely,  
 
 _Jahsulynn Ault_
