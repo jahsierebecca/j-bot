@@ -18,4 +18,5 @@ Portland Code School was recommended to me by my friend and former colleague Nil
 
 Sincerely,  
 
-_Jahsulynn Ault_
+_Jahsulynn Ault_  
+jahsieault@gmail.com
